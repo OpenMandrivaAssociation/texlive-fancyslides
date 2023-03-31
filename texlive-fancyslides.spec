@@ -1,6 +1,6 @@
 Name:		texlive-fancyslides
 Version:	36263
-Release:	1
+Release:	2
 Summary:	Custom presentation class built upon LaTeX Beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyslides
