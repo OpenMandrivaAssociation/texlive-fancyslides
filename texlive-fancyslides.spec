@@ -3,7 +3,7 @@ Version:	36263
 Release:	2
 Summary:	Custom presentation class built upon LaTeX Beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyslides
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fancyslides
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyslides.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyslides.doc.r%{version}.tar.xz
